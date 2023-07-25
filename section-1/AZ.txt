@@ -1,0 +1,70 @@
+AZ - Anthem
+AZ - Apache Junction
+AZ - Avondale
+AZ - Benson
+AZ - Bisbee
+AZ - Buckeye
+AZ - Bullhead City
+AZ - Camp Verde
+AZ - Carefree
+AZ - Casa Grande
+AZ - Cave Creek
+AZ - Chandler
+AZ - Chino Valley
+AZ - Coolidge
+AZ - Cottonwood
+AZ - Dewey
+AZ - Douglas
+AZ - El Mirage
+AZ - Flagstaff
+AZ - Florence
+AZ - Fountain Hills
+AZ - Gilbert
+AZ - Glendale
+AZ - Globe
+AZ - Goodyear
+AZ - Green Valley
+AZ - Hereford
+AZ - Holbrook
+AZ - Kingman
+AZ - Lake Havasu City
+AZ - Lakeside
+AZ - Laveen
+AZ - Litchfield Park
+AZ - Marana
+AZ - Maricopa
+AZ - Mesa
+AZ - New River
+AZ - Nogales
+AZ - Oro Valley
+AZ - Page
+AZ - Paradise Valley
+AZ - Parker
+AZ - Payson
+AZ - Peoria
+AZ - Phoenix
+AZ - Prescott
+AZ - Prescott Valley
+AZ - Queen Creek
+AZ - Rio Rico
+AZ - Safford
+AZ - Sahuarita
+AZ - San Tan Valley
+AZ - Scottsdale
+AZ - Sedona
+AZ - Show Low
+AZ - Sierra Vista
+AZ - Snowflake
+AZ - Sun City
+AZ - Sun City West
+AZ - Sun Lakes
+AZ - Surprise
+AZ - Tempe
+AZ - Tolleson
+AZ - Tucson
+AZ - Vail
+AZ - Waddell
+AZ - Wickenburg
+AZ - Willcox
+AZ - Winslow
+AZ - Yuma

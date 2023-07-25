@@ -1,0 +1,70 @@
+ID - American Falls
+ID - Ammon
+ID - Ashton
+ID - Athol
+ID - Bellevue
+ID - Blackfoot
+ID - Boise
+ID - Bonners Ferry
+ID - Buhl
+ID - Burley
+ID - Caldwell
+ID - Cascade
+ID - Challis
+ID - Coeur D Alene
+ID - Council
+ID - Driggs
+ID - Eagle
+ID - Emmett
+ID - Filer
+ID - Fruitland
+ID - Garden City
+ID - Garden Valley
+ID - Gooding
+ID - Grangeville
+ID - Hailey
+ID - Hayden
+ID - Homedale
+ID - Idaho Falls
+ID - Jerome
+ID - Kamiah
+ID - Kellogg
+ID - Ketchum
+ID - Kimberly
+ID - Kuna
+ID - Lewiston
+ID - Malad City
+ID - Mccall
+ID - Meridian
+ID - Middleton
+ID - Montpelier
+ID - Moscow
+ID - Mountain Home
+ID - Nampa
+ID - New Plymouth
+ID - Orofino
+ID - Parma
+ID - Payette
+ID - Pocatello
+ID - Ponderay
+ID - Post Falls
+ID - Preston
+ID - Priest River
+ID - Rathdrum
+ID - Rexburg
+ID - Rigby
+ID - Rupert
+ID - Sagle
+ID - Salmon
+ID - Sandpoint
+ID - Shelley
+ID - Shoshone
+ID - Soda Springs
+ID - St Anthony
+ID - St Maries
+ID - Star
+ID - Sun Valley
+ID - Twin Falls
+ID - Wallace
+ID - Weiser
+ID - Wendell

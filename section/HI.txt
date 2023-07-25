@@ -1,0 +1,70 @@
+HI - Aiea
+HI - Anahola
+HI - Captain Cook
+HI - Eleele
+HI - Ewa Beach
+HI - Haiku
+HI - Haleiwa
+HI - Hana
+HI - Hanalei
+HI - Hanapepe
+HI - Hauula
+HI - Hawi
+HI - Hilo
+HI - Holualoa
+HI - Honaunau
+HI - Honokaa
+HI - Honolulu
+HI - Hoolehua
+HI - Jbphh
+HI - Kaaawa
+HI - Kahuku
+HI - Kahului
+HI - Kailua
+HI - Kailua Kona
+HI - Kalaheo
+HI - Kamuela
+HI - Kaneohe
+HI - Kapaa
+HI - Kapaau
+HI - Kapolei
+HI - Kaunakakai
+HI - Keaau
+HI - Kealakekua
+HI - Keauhou
+HI - Kekaha
+HI - Kihei
+HI - Kilauea
+HI - Koloa
+HI - Kula
+HI - Kunia
+HI - Kurtistown
+HI - Lahaina
+HI - Laie
+HI - Lanai City
+HI - Laupahoehoe
+HI - Lawai
+HI - Lihue
+HI - Makawao
+HI - Mililani
+HI - Mountain View
+HI - Naalehu
+HI - Ocean View
+HI - Paauilo
+HI - Pahala
+HI - Pahoa
+HI - Paia
+HI - Papaikou
+HI - Pearl City
+HI - Princeville
+HI - Pukalani
+HI - Puunene
+HI - Volcano
+HI - Wahiawa
+HI - Waialua
+HI - Waianae
+HI - Waikoloa
+HI - Wailuku
+HI - Waimanalo
+HI - Waimea
+HI - Waipahu

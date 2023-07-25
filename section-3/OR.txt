@@ -1,0 +1,70 @@
+OR - Albany
+OR - Ashland
+OR - Astoria
+OR - Baker City
+OR - Bandon
+OR - Beaverton
+OR - Bend
+OR - Brookings
+OR - Canby
+OR - Central Point
+OR - Clackamas
+OR - Coos Bay
+OR - Coquille
+OR - Corvallis
+OR - Cottage Grove
+OR - Dallas
+OR - Eagle Point
+OR - Estacada
+OR - Eugene
+OR - Florence
+OR - Forest Grove
+OR - Gladstone
+OR - Gold Beach
+OR - Grants Pass
+OR - Gresham
+OR - Happy Valley
+OR - Hermiston
+OR - Hillsboro
+OR - Hood River
+OR - Jacksonville
+OR - Junction City
+OR - Keizer
+OR - Klamath Falls
+OR - La Grande
+OR - La Pine
+OR - Lake Oswego
+OR - Lakeview
+OR - Lebanon
+OR - Lincoln City
+OR - Madras
+OR - Mcminnville
+OR - Medford
+OR - Molalla
+OR - Newberg
+OR - Newport
+OR - North Bend
+OR - Ontario
+OR - Oregon City
+OR - Pendleton
+OR - Portland
+OR - Prineville
+OR - Redmond
+OR - Roseburg
+OR - Salem
+OR - Sandy
+OR - Scappoose
+OR - Seaside
+OR - Sherwood
+OR - Silverton
+OR - Sisters
+OR - Springfield
+OR - St Helens
+OR - Sweet Home
+OR - The Dalles
+OR - Tillamook
+OR - Troutdale
+OR - Tualatin
+OR - West Linn
+OR - Wilsonville
+OR - Woodburn

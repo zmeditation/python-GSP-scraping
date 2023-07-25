@@ -1,0 +1,70 @@
+MS - Amory
+MS - Batesville
+MS - Bay St Louis
+MS - Biloxi
+MS - Booneville
+MS - Brandon
+MS - Brookhaven
+MS - Byram
+MS - Canton
+MS - Carthage
+MS - Clarksdale
+MS - Cleveland
+MS - Clinton
+MS - Columbia
+MS - Columbus
+MS - Corinth
+MS - Crystal Springs
+MS - Florence
+MS - Flowood
+MS - Gautier
+MS - Greenville
+MS - Greenwood
+MS - Grenada
+MS - Gulfport
+MS - Hattiesburg
+MS - Hernando
+MS - Holly Springs
+MS - Horn Lake
+MS - Houston
+MS - Indianola
+MS - Jackson
+MS - Kosciusko
+MS - Laurel
+MS - Lexington
+MS - Long Beach
+MS - Louisville
+MS - Lucedale
+MS - Madison
+MS - Mccomb
+MS - Meridian
+MS - Mississippi State
+MS - Moss Point
+MS - Natchez
+MS - New Albany
+MS - Ocean Springs
+MS - Olive Branch
+MS - Oxford
+MS - Pascagoula
+MS - Pass Christian
+MS - Pearl
+MS - Petal
+MS - Philadelphia
+MS - Picayune
+MS - Pontotoc
+MS - Poplarville
+MS - Port Gibson
+MS - Raymond
+MS - Ridgeland
+MS - Ripley
+MS - Senatobia
+MS - Southaven
+MS - Starkville
+MS - Summit
+MS - Tupelo
+MS - Vicksburg
+MS - Waynesboro
+MS - West Point
+MS - Wiggins
+MS - Winona
+MS - Yazoo City

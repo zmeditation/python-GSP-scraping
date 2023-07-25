@@ -1,0 +1,70 @@
+PR - Adjuntas
+PR - Aguada
+PR - Aguadilla
+PR - Aguas Buenas
+PR - Aibonito
+PR - Anasco
+PR - Arecibo
+PR - Barceloneta
+PR - Barranquitas
+PR - Bayamon
+PR - Cabo Rojo
+PR - Caguas
+PR - Camuy
+PR - Canovanas
+PR - Carolina
+PR - Catano
+PR - Cayey
+PR - Ceiba
+PR - Ciales
+PR - Cidra
+PR - Coamo
+PR - Corozal
+PR - Coto Laurel
+PR - Culebra
+PR - Dorado
+PR - Fajardo
+PR - Guayama
+PR - Guaynabo
+PR - Gurabo
+PR - Hatillo
+PR - Hormigueros
+PR - Humacao
+PR - Isabela
+PR - Juana Diaz
+PR - Juncos
+PR - Lajas
+PR - Las Piedras
+PR - Loiza
+PR - Luquillo
+PR - Manati
+PR - Mayaguez
+PR - Mercedita
+PR - Moca
+PR - Naguabo
+PR - Orocovis
+PR - Patillas
+PR - Penuelas
+PR - Ponce
+PR - Quebradillas
+PR - Rincon
+PR - Rio Grande
+PR - Rio Piedras
+PR - Sabana Grande
+PR - Sabana Seca
+PR - Salinas
+PR - San Antonio
+PR - San German
+PR - San Juan
+PR - San Lorenzo
+PR - San Sebastian
+PR - St Just
+PR - Toa Alta
+PR - Toa Baja
+PR - Trujillo Alto
+PR - Utuado
+PR - Vega Alta
+PR - Vega Baja
+PR - Vieques
+PR - Yabucoa
+PR - Yauco

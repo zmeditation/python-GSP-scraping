@@ -1,0 +1,70 @@
+MN - Aitkin
+MN - Albert Lea
+MN - Alexandria
+MN - Andover
+MN - Anoka
+MN - Austin
+MN - Bemidji
+MN - Brainerd
+MN - Buffalo
+MN - Burnsville
+MN - Cambridge
+MN - Champlin
+MN - Chanhassen
+MN - Chaska
+MN - Circle Pines
+MN - Cloquet
+MN - Cottage Grove
+MN - Crookston
+MN - Detroit Lakes
+MN - Duluth
+MN - Eden Prairie
+MN - Elk River
+MN - Ely
+MN - Excelsior
+MN - Fairmont
+MN - Faribault
+MN - Farmington
+MN - Fergus Falls
+MN - Forest Lake
+MN - Grand Rapids
+MN - Hastings
+MN - Hibbing
+MN - Hopkins
+MN - Hutchinson
+MN - International Falls
+MN - Inver Grove Heights
+MN - Lakeville
+MN - Litchfield
+MN - Little Falls
+MN - Mankato
+MN - Maple Grove
+MN - Marshall
+MN - Minneapolis
+MN - Minnetonka
+MN - Montevideo
+MN - Monticello
+MN - Moorhead
+MN - Morris
+MN - New Ulm
+MN - Northfield
+MN - Owatonna
+MN - Park Rapids
+MN - Prior Lake
+MN - Red Wing
+MN - Rochester
+MN - Rosemount
+MN - Savage
+MN - Shakopee
+MN - South St Paul
+MN - St Cloud
+MN - St Paul
+MN - St Peter
+MN - Stillwater
+MN - Thief River Falls
+MN - Virginia
+MN - Waseca
+MN - Wayzata
+MN - Willmar
+MN - Winona
+MN - Worthington

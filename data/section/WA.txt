@@ -1,0 +1,70 @@
+WA - Aberdeen
+WA - Anacortes
+WA - Arlington
+WA - Auburn
+WA - Bainbridge Island
+WA - Battle Ground
+WA - Bellevue
+WA - Bellingham
+WA - Bothell
+WA - Bremerton
+WA - Burien
+WA - Burlington
+WA - Camas
+WA - Centralia
+WA - Chehalis
+WA - Edmonds
+WA - Ellensburg
+WA - Enumclaw
+WA - Everett
+WA - Federal Way
+WA - Friday Harbor
+WA - Gig Harbor
+WA - Issaquah
+WA - Kennewick
+WA - Kent
+WA - Kirkland
+WA - Lacey
+WA - Lake Stevens
+WA - Lakewood
+WA - Longview
+WA - Lynden
+WA - Lynnwood
+WA - Maple Valley
+WA - Marysville
+WA - Mercer Island
+WA - Monroe
+WA - Moses Lake
+WA - Mt Vernon
+WA - Mukilteo
+WA - Oak Harbor
+WA - Olympia
+WA - Pasco
+WA - Port Angeles
+WA - Port Orchard
+WA - Port Townsend
+WA - Poulsbo
+WA - Pullman
+WA - Puyallup
+WA - Redmond
+WA - Renton
+WA - Richland
+WA - Sammamish
+WA - Seattle
+WA - Sequim
+WA - Shelton
+WA - Shoreline
+WA - Silverdale
+WA - Snohomish
+WA - Spanaway
+WA - Spokane
+WA - Spokane Valley
+WA - Stanwood
+WA - Tacoma
+WA - Tukwila
+WA - Vancouver
+WA - Vashon
+WA - Walla Walla
+WA - Wenatchee
+WA - Woodinville
+WA - Yakima

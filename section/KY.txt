@@ -1,0 +1,70 @@
+KY - Alexandria
+KY - Ashland
+KY - Bardstown
+KY - Benton
+KY - Berea
+KY - Bowling Green
+KY - Brandenburg
+KY - Burlington
+KY - Campbellsville
+KY - Corbin
+KY - Covington
+KY - Crestwood
+KY - Cynthiana
+KY - Danville
+KY - Dry Ridge
+KY - Elizabethtown
+KY - Erlanger
+KY - Florence
+KY - Fort Thomas
+KY - Frankfort
+KY - Franklin
+KY - Ft Mitchell
+KY - Georgetown
+KY - Glasgow
+KY - Grayson
+KY - Greenville
+KY - Harrodsburg
+KY - Hazard
+KY - Henderson
+KY - Hopkinsville
+KY - Independence
+KY - Irvine
+KY - La Grange
+KY - Lawrenceburg
+KY - Leitchfield
+KY - Lexington
+KY - London
+KY - Louisville
+KY - Madisonville
+KY - Manchester
+KY - Mayfield
+KY - Maysville
+KY - Middlesboro
+KY - Monticello
+KY - Morehead
+KY - Mt Sterling
+KY - Mt Washington
+KY - Murray
+KY - Newport
+KY - Nicholasville
+KY - Owensboro
+KY - Paducah
+KY - Paris
+KY - Pikeville
+KY - Prestonsburg
+KY - Princeton
+KY - Prospect
+KY - Radcliff
+KY - Richmond
+KY - Russellville
+KY - Scottsville
+KY - Shelbyville
+KY - Shepherdsville
+KY - Somerset
+KY - Taylorsville
+KY - Union
+KY - Versailles
+KY - Williamsburg
+KY - Wilmore
+KY - Winchester

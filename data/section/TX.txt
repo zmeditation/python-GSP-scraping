@@ -1,0 +1,70 @@
+TX - Abilene
+TX - Allen
+TX - Amarillo
+TX - Arlington
+TX - Austin
+TX - Baytown
+TX - Beaumont
+TX - Boerne
+TX - Brownsville
+TX - Bryan
+TX - Carrollton
+TX - Cedar Hill
+TX - Cedar Park
+TX - College Station
+TX - Conroe
+TX - Corpus Christi
+TX - Cypress
+TX - Dallas
+TX - Denton
+TX - Desoto
+TX - El Paso
+TX - Flower Mound
+TX - Fort Worth
+TX - Frisco
+TX - Galveston
+TX - Garland
+TX - Georgetown
+TX - Grand Prairie
+TX - Harlingen
+TX - Houston
+TX - Humble
+TX - Irving
+TX - Katy
+TX - Kerrville
+TX - Killeen
+TX - Kingwood
+TX - Laredo
+TX - League City
+TX - Lewisville
+TX - Longview
+TX - Lubbock
+TX - Lufkin
+TX - Mansfield
+TX - Mcallen
+TX - Mckinney
+TX - Mesquite
+TX - Midland
+TX - Missouri City
+TX - New Braunfels
+TX - Odessa
+TX - Pasadena
+TX - Pearland
+TX - Plano
+TX - Richardson
+TX - Richmond
+TX - Rockwall
+TX - Round Rock
+TX - San Angelo
+TX - San Antonio
+TX - San Marcos
+TX - Spring
+TX - Sugar Land
+TX - Temple
+TX - Texarkana
+TX - Tomball
+TX - Tyler
+TX - Victoria
+TX - Waco
+TX - Weatherford
+TX - Wichita Falls

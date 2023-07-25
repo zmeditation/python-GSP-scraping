@@ -1,0 +1,70 @@
+NM - Abiquiu
+NM - Alamogordo
+NM - Albuquerque
+NM - Alto
+NM - Angel Fire
+NM - Anthony
+NM - Artesia
+NM - Aztec
+NM - Belen
+NM - Bernalillo
+NM - Bloomfield
+NM - Capitan
+NM - Carlsbad
+NM - Carrizozo
+NM - Cedar Crest
+NM - Cerrillos
+NM - Chama
+NM - Clayton
+NM - Cloudcroft
+NM - Clovis
+NM - Columbus
+NM - Corrales
+NM - Cuba
+NM - Deming
+NM - Dexter
+NM - Edgewood
+NM - El Prado
+NM - Elephant Butte
+NM - Espanola
+NM - Estancia
+NM - Farmington
+NM - Fort Sumner
+NM - Gallup
+NM - Grants
+NM - Hobbs
+NM - Jemez Springs
+NM - Las Cruces
+NM - Las Vegas
+NM - Lordsburg
+NM - Los Alamos
+NM - Los Lunas
+NM - Los Ranchos
+NM - Lovington
+NM - Mesilla
+NM - Mesilla Park
+NM - Moriarty
+NM - Mountainair
+NM - Peralta
+NM - Placitas
+NM - Portales
+NM - Questa
+NM - Ranchos DE Taos
+NM - Raton
+NM - Rio Rancho
+NM - Roswell
+NM - Ruidoso
+NM - Sandia Park
+NM - Santa Cruz
+NM - Santa Fe
+NM - Santa Rosa
+NM - Shiprock
+NM - Silver City
+NM - Socorro
+NM - Springer
+NM - Taos
+NM - Tijeras
+NM - Truth OR Consequences
+NM - Tucumcari
+NM - Tularosa
+NM - White Rock

@@ -1,0 +1,70 @@
+MI - Adrian
+MI - Alpena
+MI - Ann Arbor
+MI - Battle Creek
+MI - Bay City
+MI - Benton Harbor
+MI - Birmingham
+MI - Bloomfield Hills
+MI - Brighton
+MI - Cadillac
+MI - Canton
+MI - Charlotte
+MI - Clarkston
+MI - Clinton Township
+MI - Coldwater
+MI - Dearborn
+MI - Dearborn Heights
+MI - Detroit
+MI - East Lansing
+MI - Eastpointe
+MI - Escanaba
+MI - Farmington Hills
+MI - Flint
+MI - Grand Blanc
+MI - Grand Haven
+MI - Grand Rapids
+MI - Grandville
+MI - Highland Park
+MI - Holland
+MI - Howell
+MI - Jackson
+MI - Kalamazoo
+MI - Lansing
+MI - Lapeer
+MI - Livonia
+MI - Marquette
+MI - Mason
+MI - Midland
+MI - Monroe
+MI - Mt Pleasant
+MI - Muskegon
+MI - Northville
+MI - Novi
+MI - Oak Park
+MI - Okemos
+MI - Petoskey
+MI - Plymouth
+MI - Pontiac
+MI - Port Huron
+MI - Portage
+MI - Redford
+MI - Rochester
+MI - Rochester Hills
+MI - Roseville
+MI - Royal Oak
+MI - Saginaw
+MI - Shelby Township
+MI - Southfield
+MI - St Clair Shores
+MI - St Joseph
+MI - Sterling Heights
+MI - Taylor
+MI - Traverse City
+MI - Troy
+MI - Warren
+MI - Waterford
+MI - West Bloomfield
+MI - Westland
+MI - Wyoming
+MI - Ypsilanti

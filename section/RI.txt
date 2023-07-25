@@ -1,0 +1,70 @@
+RI - Adamsville
+RI - Albion
+RI - Ashaway
+RI - Barrington
+RI - Block Island
+RI - Bradford
+RI - Bristol
+RI - Carolina
+RI - Central Falls
+RI - Charlestown
+RI - Chepachet
+RI - Clayville
+RI - Coventry
+RI - Cranston
+RI - Cumberland
+RI - E Providence
+RI - East Greenwich
+RI - East Providence
+RI - Exeter
+RI - Fiskeville
+RI - Forestdale
+RI - Foster
+RI - Glendale
+RI - Greene
+RI - Greenville
+RI - Harmony
+RI - Harrisville
+RI - Hope
+RI - Hope Valley
+RI - Hopkinton
+RI - Jamestown
+RI - Johnston
+RI - Kingston
+RI - Lincoln
+RI - Little Compton
+RI - Manville
+RI - Mapleville
+RI - Middletown
+RI - N Kingstown
+RI - Narragansett
+RI - Newport
+RI - North Kingstown
+RI - North Providence
+RI - North Scituate
+RI - North Smithfield
+RI - Oakland
+RI - Pascoag
+RI - Pawtucket
+RI - Peace Dale
+RI - Portsmouth
+RI - Providence
+RI - Prudence Island
+RI - Riverside
+RI - Rumford
+RI - Saunderstown
+RI - Shannock
+RI - Slatersville
+RI - Slocum
+RI - Smithfield
+RI - Tiverton
+RI - Wakefield
+RI - Warren
+RI - Warwick
+RI - West Greenwich
+RI - West Kingston
+RI - West Warwick
+RI - Westerly
+RI - Wood River Junction
+RI - Woonsocket
+RI - Wyoming

@@ -1,0 +1,70 @@
+FL - Altamonte Springs
+FL - Apopka
+FL - Boca Raton
+FL - Boynton Beach
+FL - Bradenton
+FL - Brandon
+FL - Cape Coral
+FL - Clearwater
+FL - Clermont
+FL - Coral Gables
+FL - Coral Springs
+FL - Davie
+FL - Daytona Beach
+FL - Deerfield Beach
+FL - Deland
+FL - Delray Beach
+FL - Fort Lauderdale
+FL - Fort Myers
+FL - Fort Pierce
+FL - Gainesville
+FL - Hialeah
+FL - Hollywood
+FL - Homestead
+FL - Jacksonville
+FL - Jupiter
+FL - Kissimmee
+FL - Lake Worth
+FL - Lakeland
+FL - Largo
+FL - Lauderhill
+FL - Longwood
+FL - Melbourne
+FL - Miami
+FL - Miami Beach
+FL - Miami Gardens
+FL - Miramar
+FL - Naples
+FL - New Port Richey
+FL - North Miami
+FL - Ocala
+FL - Orange Park
+FL - Orlando
+FL - Palm Bay
+FL - Palm Beach
+FL - Palm Beach Gardens
+FL - Palm Coast
+FL - Palm Harbor
+FL - Panama City
+FL - Pembroke Pines
+FL - Pensacola
+FL - Plantation
+FL - Pompano Beach
+FL - Port St Lucie
+FL - Riverview
+FL - Sanford
+FL - Sarasota
+FL - Spring Hill
+FL - St Augustine
+FL - St Petersburg
+FL - Stuart
+FL - Sunrise
+FL - Tallahassee
+FL - Tampa
+FL - Venice
+FL - Vero Beach
+FL - Wellington
+FL - West Palm Beach
+FL - Winter Garden
+FL - Winter Haven
+FL - Winter Park

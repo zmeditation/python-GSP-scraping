@@ -1,0 +1,70 @@
+OK - Ada - 297
+OK - Altus - 180
+OK - Alva - 111
+OK - Anadarko - 93
+OK - Ardmore - 396
+OK - Bartlesville - 632
+OK - Bethany - 211
+OK - Bixby - 188
+OK - Blackwell - 87
+OK - Blanchard - 89
+OK - Bristow - 102
+OK - Broken Arrow - 1058
+OK - Chickasha - 204
+OK - Choctaw - 118
+OK - Claremore - 332
+OK - Clinton - 114
+OK - Collinsville - 108
+OK - Coweta - 97
+OK - Cushing - 124
+OK - Dewey - 89
+OK - Duncan - 227
+OK - Durant - 205
+OK - Edmond - 1407
+OK - El Reno - 168
+OK - Elk City - 137
+OK - Enid - 528
+OK - Eufaula - 80
+OK - Grove - 178
+OK - Guthrie - 228
+OK - Guymon - 123
+OK - Hugo - 153
+OK - Idabel - 84
+OK - Jenks - 197
+OK - Kingfisher - 108
+OK - Lawton - 726
+OK - Mcalester - 264
+OK - Miami - 173
+OK - Midwest City - 89
+OK - Moore - 341
+OK - Muskogee - 491
+OK - Mustang - 176
+OK - Newcastle - 84
+OK - Noble - 99
+OK - Norman - 1093
+OK - Nowata - 92
+OK - Oklahoma City - 6119
+OK - Okmulgee - 167
+OK - Owasso - 321
+OK - Pauls Valley - 84
+OK - Pawhuska - 79
+OK - Perry - 76
+OK - Ponca City - 369
+OK - Poteau - 112
+OK - Pryor - 181
+OK - Purcell - 77
+OK - Sallisaw - 78
+OK - Sand Springs - 225
+OK - Sapulpa - 233
+OK - Seminole - 98
+OK - Shawnee - 366
+OK - Skiatook - 109
+OK - Stigler - 77
+OK - Stillwater - 1163
+OK - Tahlequah - 275
+OK - Tulsa - 5434
+OK - Vinita - 116
+OK - Wagoner - 81
+OK - Weatherford - 159
+OK - Woodward - 164
+OK - Yukon - 391

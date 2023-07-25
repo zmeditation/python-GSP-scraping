@@ -1,0 +1,70 @@
+IA - Adel
+IA - Algona
+IA - Altoona
+IA - Ames
+IA - Anamosa
+IA - Ankeny
+IA - Atlantic
+IA - Bettendorf
+IA - Boone
+IA - Burlington
+IA - Carroll
+IA - Cedar Falls
+IA - Cedar Rapids
+IA - Centerville
+IA - Charles City
+IA - Cherokee
+IA - Clear Lake
+IA - Clinton
+IA - Clive
+IA - Coralville
+IA - Council Bluffs
+IA - Creston
+IA - Davenport
+IA - De Witt
+IA - Decorah
+IA - Denison
+IA - Des Moines
+IA - Dubuque
+IA - Estherville
+IA - Fairfield
+IA - Fort Dodge
+IA - Fort Madison
+IA - Grinnell
+IA - Harlan
+IA - Independence
+IA - Indianola
+IA - Iowa City
+IA - Iowa Falls
+IA - Jefferson
+IA - Johnston
+IA - Keokuk
+IA - Knoxville
+IA - Le Mars
+IA - Maquoketa
+IA - Marion
+IA - Marshalltown
+IA - Mason City
+IA - Mt Pleasant
+IA - Muscatine
+IA - Newton
+IA - North Liberty
+IA - Orange City
+IA - Osage
+IA - Oskaloosa
+IA - Ottumwa
+IA - Pella
+IA - Red Oak
+IA - Sioux Center
+IA - Sioux City
+IA - Spencer
+IA - Spirit Lake
+IA - Storm Lake
+IA - Urbandale
+IA - Washington
+IA - Waterloo
+IA - Waukee
+IA - Waverly
+IA - Webster City
+IA - West Des Moines
+IA - Winterset

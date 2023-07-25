@@ -1,0 +1,70 @@
+AK - Anchor Point
+AK - Anchorage
+AK - Auke Bay
+AK - Barrow
+AK - Bethel
+AK - Big Lake
+AK - Chugiak
+AK - Cooper Landing
+AK - Copper Center
+AK - Cordova
+AK - Craig
+AK - Delta Junction
+AK - Dillingham
+AK - Douglas
+AK - Eagle River
+AK - Eielson Afb
+AK - Ester
+AK - Fairbanks
+AK - Fort Wainwright
+AK - Fort Yukon
+AK - Fritz Creek
+AK - Galena
+AK - Girdwood
+AK - Glennallen
+AK - Gustavus
+AK - Haines
+AK - Healy
+AK - Homer
+AK - Hoonah
+AK - Hope
+AK - Jber
+AK - Juneau
+AK - Kake
+AK - Kasilof
+AK - Kenai
+AK - Ketchikan
+AK - King Salmon
+AK - Klawock
+AK - Kodiak
+AK - Kotzebue
+AK - Mc Grath
+AK - Moose Pass
+AK - Naknek
+AK - Nenana
+AK - Nikiski
+AK - Ninilchik
+AK - Nome
+AK - North Pole
+AK - Palmer
+AK - Petersburg
+AK - Port Alsworth
+AK - Salcha
+AK - Seldovia
+AK - Seward
+AK - Sitka
+AK - Skagway
+AK - Soldotna
+AK - Sterling
+AK - Sutton
+AK - Talkeetna
+AK - Thorne Bay
+AK - Tok
+AK - Trapper Creek
+AK - Unalaska
+AK - Valdez
+AK - Ward Cove
+AK - Wasilla
+AK - Willow
+AK - Wrangell
+AK - Yakutat

@@ -1,0 +1,70 @@
+NY - Albany
+NY - Astoria
+NY - Auburn
+NY - Bay Shore
+NY - Bayside
+NY - Binghamton
+NY - Bronx
+NY - Brooklyn
+NY - Buffalo
+NY - Elmira
+NY - Endicott
+NY - Fairport
+NY - Far Rockaway
+NY - Farmingdale
+NY - Flushing
+NY - Forest Hills
+NY - Freeport
+NY - Fresh Meadows
+NY - Garden City
+NY - Great Neck
+NY - Hempstead
+NY - Hicksville
+NY - Huntington
+NY - Ithaca
+NY - Jamaica
+NY - Jamestown
+NY - Kingston
+NY - Latham
+NY - Liverpool
+NY - Lockport
+NY - Long Island City
+NY - Melville
+NY - Middletown
+NY - Mineola
+NY - Monroe
+NY - Monsey
+NY - Mt Vernon
+NY - New City
+NY - New Hyde Park
+NY - New Rochelle
+NY - New York City
+NY - Newburgh
+NY - Niagara Falls
+NY - Norwich
+NY - Oneonta
+NY - Pittsford
+NY - Plattsburgh
+NY - Port Washington
+NY - Poughkeepsie
+NY - Queens Village
+NY - Rochester
+NY - Rockville Centre
+NY - Rome
+NY - Saratoga Springs
+NY - Scarsdale
+NY - Schenectady
+NY - Spring Valley
+NY - St Albans
+NY - Staten Island
+NY - Suffern
+NY - Syracuse
+NY - Troy
+NY - Utica
+NY - Valley Stream
+NY - Watertown
+NY - Webster
+NY - Westbury
+NY - White Plains
+NY - Woodside
+NY - Yonkers

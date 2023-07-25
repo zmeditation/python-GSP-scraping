@@ -1,0 +1,70 @@
+NE - Ainsworth
+NE - Albion
+NE - Alliance
+NE - Ashland
+NE - Auburn
+NE - Aurora
+NE - Beatrice
+NE - Bellevue
+NE - Benkelman
+NE - Bennington
+NE - Blair
+NE - Boys Town
+NE - Broken Bow
+NE - Burwell
+NE - Central City
+NE - Chadron
+NE - Columbus
+NE - Cozad
+NE - Crete
+NE - David City
+NE - Elkhorn
+NE - Fairbury
+NE - Falls City
+NE - Fremont
+NE - Geneva
+NE - Gering
+NE - Gordon
+NE - Gothenburg
+NE - Grand Island
+NE - Grant
+NE - Gretna
+NE - Hastings
+NE - Holdrege
+NE - Imperial
+NE - Kearney
+NE - Kimball
+NE - La Vista
+NE - Lexington
+NE - Lincoln
+NE - Mc Cook
+NE - Milford
+NE - Minden
+NE - Nebraska City
+NE - Neligh
+NE - Norfolk
+NE - North Platte
+NE - Offutt Afb
+NE - Ogallala
+NE - Omaha
+NE - Oneill
+NE - Ord
+NE - Papillion
+NE - Pawnee City
+NE - Plattsmouth
+NE - Schuyler
+NE - Scottsbluff
+NE - Seward
+NE - Sidney
+NE - South Sioux City
+NE - St Paul
+NE - Superior
+NE - Syracuse
+NE - Tecumseh
+NE - Tekamah
+NE - Valentine
+NE - Wahoo
+NE - Wayne
+NE - Weeping Water
+NE - West Point
+NE - York

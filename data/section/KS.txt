@@ -1,0 +1,70 @@
+KS - Abilene
+KS - Andover
+KS - Arkansas City
+KS - Atchison
+KS - Augusta
+KS - Baldwin City
+KS - Beloit
+KS - Bonner Springs
+KS - Chanute
+KS - Clay Center
+KS - Coffeyville
+KS - Colby
+KS - Columbus
+KS - Concordia
+KS - Derby
+KS - Dodge City
+KS - El Dorado
+KS - Emporia
+KS - Fort Scott
+KS - Fredonia
+KS - Garden City
+KS - Gardner
+KS - Girard
+KS - Goodland
+KS - Great Bend
+KS - Hays
+KS - Hiawatha
+KS - Hutchinson
+KS - Independence
+KS - Iola
+KS - Junction City
+KS - Kansas City
+KS - Kingman
+KS - Lansing
+KS - Larned
+KS - Lawrence
+KS - Leavenworth
+KS - Leawood
+KS - Lenexa
+KS - Liberal
+KS - Manhattan
+KS - Marysville
+KS - Mcpherson
+KS - Mission
+KS - Newton
+KS - Norton
+KS - Olathe
+KS - Ottawa
+KS - Overland Park
+KS - Paola
+KS - Parsons
+KS - Phillipsburg
+KS - Pittsburg
+KS - Prairie Village
+KS - Pratt
+KS - Russell
+KS - Salina
+KS - Scott City
+KS - Seneca
+KS - Shawnee
+KS - Smith Center
+KS - Stilwell
+KS - Tonganoxie
+KS - Topeka
+KS - Ulysses
+KS - Valley Center
+KS - Wamego
+KS - Wellington
+KS - Wichita
+KS - Winfield

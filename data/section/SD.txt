@@ -1,0 +1,70 @@
+SD - Aberdeen
+SD - Arlington
+SD - Belle Fourche
+SD - Beresford
+SD - Black Hawk
+SD - Box Elder
+SD - Brandon
+SD - Britton
+SD - Brookings
+SD - Burke
+SD - Canton
+SD - Chamberlain
+SD - Clark
+SD - Clear Lake
+SD - Custer
+SD - De Smet
+SD - Deadwood
+SD - Dell Rapids
+SD - Eagle Butte
+SD - Elk Point
+SD - Eureka
+SD - Faulkton
+SD - Flandreau
+SD - Fort Pierre
+SD - Freeman
+SD - Garretson
+SD - Gettysburg
+SD - Gregory
+SD - Groton
+SD - Harrisburg
+SD - Hartford
+SD - Hermosa
+SD - Highmore
+SD - Hill City
+SD - Hot Springs
+SD - Howard
+SD - Huron
+SD - Lead
+SD - Lemmon
+SD - Lennox
+SD - Madison
+SD - Martin
+SD - Milbank
+SD - Miller
+SD - Mission
+SD - Mitchell
+SD - Mobridge
+SD - North Sioux City
+SD - Parker
+SD - Parkston
+SD - Philip
+SD - Pierre
+SD - Pine Ridge
+SD - Platte
+SD - Rapid City
+SD - Redfield
+SD - Salem
+SD - Sioux Falls
+SD - Sisseton
+SD - Spearfish
+SD - Sturgis
+SD - Tyndall
+SD - Vermillion
+SD - Wagner
+SD - Wall
+SD - Watertown
+SD - Webster
+SD - Wessington Springs
+SD - Winner
+SD - Yankton

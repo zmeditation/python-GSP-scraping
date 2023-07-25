@@ -1,0 +1,70 @@
+AL - Alabaster
+AL - Albertville
+AL - Alexander City
+AL - Andalusia
+AL - Anniston
+AL - Athens
+AL - Atmore
+AL - Auburn
+AL - Bay Minette
+AL - Bessemer
+AL - Birmingham
+AL - Brewton
+AL - Center Point
+AL - Clanton
+AL - Cullman
+AL - Daphne
+AL - Decatur
+AL - Dothan
+AL - Enterprise
+AL - Eufaula
+AL - Fairfield
+AL - Fairhope
+AL - Florence
+AL - Foley
+AL - Fort Payne
+AL - Gadsden
+AL - Gardendale
+AL - Greenville
+AL - Gulf Shores
+AL - Guntersville
+AL - Hartselle
+AL - Harvest
+AL - Hoover
+AL - Huntsville
+AL - Irondale
+AL - Jacksonville
+AL - Jasper
+AL - Leeds
+AL - Livingston
+AL - Madison
+AL - Mobile
+AL - Monroeville
+AL - Montevallo
+AL - Montgomery
+AL - Mountain Brk
+AL - Muscle Shoals
+AL - Northport
+AL - Oneonta
+AL - Opelika
+AL - Ozark
+AL - Pelham
+AL - Pell City
+AL - Phenix City
+AL - Pike Road
+AL - Pinson
+AL - Prattville
+AL - Russellville
+AL - Saraland
+AL - Scottsboro
+AL - Selma
+AL - Sylacauga
+AL - Talladega
+AL - Troy
+AL - Trussville
+AL - Tuscaloosa
+AL - Tuscumbia
+AL - Tuskegee
+AL - Vestavia
+AL - Vestavia Hills
+AL - Wetumpka

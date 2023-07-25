@@ -1,0 +1,70 @@
+CT - Avon
+CT - Berlin
+CT - Bethel
+CT - Bloomfield
+CT - Branford
+CT - Bridgeport
+CT - Bristol
+CT - Brookfield
+CT - Cheshire
+CT - Cromwell
+CT - Danbury
+CT - Darien
+CT - East Hartford
+CT - East Haven
+CT - Enfield
+CT - Fairfield
+CT - Farmington
+CT - Glastonbury
+CT - Greenwich
+CT - Groton
+CT - Guilford
+CT - Hamden
+CT - Hartford
+CT - Litchfield
+CT - Madison
+CT - Manchester
+CT - Meriden
+CT - Middletown
+CT - Milford
+CT - Monroe
+CT - Mystic
+CT - Naugatuck
+CT - New Britain
+CT - New Canaan
+CT - New Haven
+CT - New London
+CT - New Milford
+CT - Newington
+CT - Newtown
+CT - North Haven
+CT - Norwalk
+CT - Norwich
+CT - Old Lyme
+CT - Orange
+CT - Plainville
+CT - Ridgefield
+CT - Rocky Hill
+CT - Shelton
+CT - Simsbury
+CT - South Windsor
+CT - Southbury
+CT - Southington
+CT - Stamford
+CT - Storrs Mansfield
+CT - Stratford
+CT - Torrington
+CT - Trumbull
+CT - Vernon Rockville
+CT - Wallingford
+CT - Waterbury
+CT - Waterford
+CT - West Hartford
+CT - West Haven
+CT - Weston
+CT - Westport
+CT - Wethersfield
+CT - Willimantic
+CT - Wilton
+CT - Windsor
+CT - Woodbridge

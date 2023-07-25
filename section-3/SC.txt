@@ -1,0 +1,70 @@
+SC - Abbeville
+SC - Aiken
+SC - Anderson
+SC - Barnwell
+SC - Beaufort
+SC - Bennettsville
+SC - Bluffton
+SC - Blythewood
+SC - Boiling Springs
+SC - Camden
+SC - Chapin
+SC - Charleston
+SC - Chester
+SC - Clemson
+SC - Clinton
+SC - Clover
+SC - Columbia
+SC - Conway
+SC - Darlington
+SC - Dillon
+SC - Easley
+SC - Edgefield
+SC - Elgin
+SC - Florence
+SC - Fort Mill
+SC - Gaffney
+SC - Georgetown
+SC - Goose Creek
+SC - Greenville
+SC - Greenwood
+SC - Greer
+SC - Hartsville
+SC - Hilton Head Island
+SC - Irmo
+SC - Johns Island
+SC - Kingstree
+SC - Ladson
+SC - Lake City
+SC - Lancaster
+SC - Laurens
+SC - Lexington
+SC - Manning
+SC - Marion
+SC - Mauldin
+SC - Moncks Corner
+SC - Mt Pleasant
+SC - Murrells Inlet
+SC - Myrtle Beach
+SC - Newberry
+SC - North Augusta
+SC - North Charleston
+SC - North Myrtle Beach
+SC - Orangeburg
+SC - Pawleys Island
+SC - Pickens
+SC - Piedmont
+SC - Ridgeland
+SC - Rock Hill
+SC - Seneca
+SC - Simpsonville
+SC - Spartanburg
+SC - Summerville
+SC - Sumter
+SC - Taylors
+SC - Travelers Rest
+SC - Union
+SC - Walterboro
+SC - West Columbia
+SC - Winnsboro
+SC - York

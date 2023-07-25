@@ -1,0 +1,70 @@
+VT - Arlington
+VT - Barre
+VT - Barton
+VT - Bellows Falls
+VT - Bennington
+VT - Bethel
+VT - Bradford
+VT - Brandon
+VT - Brattleboro
+VT - Bristol
+VT - Burlington
+VT - Castleton
+VT - Charlotte
+VT - Chelsea
+VT - Chester
+VT - Colchester
+VT - Danby
+VT - Dorset
+VT - Enosburg Falls
+VT - Essex Junction
+VT - Fair Haven
+VT - Fairfax
+VT - Fairlee
+VT - Hardwick
+VT - Hartland
+VT - Hinesburg
+VT - Huntington
+VT - Hyde Park
+VT - Jericho
+VT - Johnson
+VT - Londonderry
+VT - Ludlow
+VT - Lyndonville
+VT - Manchester
+VT - Manchester Center
+VT - Middlebury
+VT - Milton
+VT - Montpelier
+VT - Morrisville
+VT - Newport
+VT - North Bennington
+VT - Northfield
+VT - Norwich
+VT - Plainfield
+VT - Poultney
+VT - Putney
+VT - Randolph
+VT - Richford
+VT - Richmond
+VT - Rutland
+VT - Shelburne
+VT - South Burlington
+VT - South Hero
+VT - South Royalton
+VT - Springfield
+VT - St Albans
+VT - St Johnsbury
+VT - Stowe
+VT - Swanton
+VT - Underhill
+VT - Vergennes
+VT - Waitsfield
+VT - Waterbury
+VT - Waterbury Center
+VT - White River Junction
+VT - Williston
+VT - Wilmington
+VT - Windsor
+VT - Winooski
+VT - Woodstock

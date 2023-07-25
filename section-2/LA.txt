@@ -1,0 +1,70 @@
+LA - Abbeville
+LA - Alexandria
+LA - Amite
+LA - Baker
+LA - Bastrop
+LA - Baton Rouge
+LA - Belle Chasse
+LA - Bogalusa
+LA - Bossier City
+LA - Breaux Bridge
+LA - Carencro
+LA - Chalmette
+LA - Covington
+LA - Crowley
+LA - Denham Springs
+LA - Deridder
+LA - Destrehan
+LA - Eunice
+LA - Farmerville
+LA - Ferriday
+LA - Franklin
+LA - Franklinton
+LA - Gonzales
+LA - Grambling
+LA - Gretna
+LA - Hammond
+LA - Harvey
+LA - Houma
+LA - Jennings
+LA - Jonesboro
+LA - Kenner
+LA - La Place
+LA - Lafayette
+LA - Lake Charles
+LA - Leesville
+LA - Luling
+LA - Madisonville
+LA - Mandeville
+LA - Mansfield
+LA - Marksville
+LA - Marrero
+LA - Metairie
+LA - Minden
+LA - Monroe
+LA - Morgan City
+LA - Natchitoches
+LA - New Iberia
+LA - New Orleans
+LA - Opelousas
+LA - Pearl River
+LA - Pineville
+LA - Plaquemine
+LA - Ponchatoula
+LA - Port Allen
+LA - Prairieville
+LA - Rayne
+LA - Ruston
+LA - Shreveport
+LA - Slidell
+LA - St Francisville
+LA - St Martinville
+LA - Sulphur
+LA - Thibodaux
+LA - Ville Platte
+LA - Walker
+LA - West Monroe
+LA - Westwego
+LA - Winnsboro
+LA - Youngsville
+LA - Zachary

@@ -1,0 +1,70 @@
+WY - Afton
+WY - Alpine
+WY - Baggs
+WY - Basin
+WY - Big Horn
+WY - Big Piney
+WY - Bondurant
+WY - Buffalo
+WY - Burns
+WY - Carpenter
+WY - Casper
+WY - Cheyenne
+WY - Chugwater
+WY - Cody
+WY - Cokeville
+WY - Dayton
+WY - Diamondville
+WY - Douglas
+WY - Dubois
+WY - Encampment
+WY - Etna
+WY - Evanston
+WY - Evansville
+WY - Fort Washakie
+WY - Gillette
+WY - Glendo
+WY - Glenrock
+WY - Green River
+WY - Greybull
+WY - Guernsey
+WY - Hanna
+WY - Hulett
+WY - Jackson
+WY - Kaycee
+WY - Kemmerer
+WY - Lander
+WY - Laramie
+WY - Lingle
+WY - Lovell
+WY - Lusk
+WY - Lyman
+WY - Medicine Bow
+WY - Meeteetse
+WY - Mills
+WY - Moorcroft
+WY - Moose
+WY - Mountain View
+WY - Newcastle
+WY - Pine Bluffs
+WY - Pinedale
+WY - Powell
+WY - Ranchester
+WY - Rawlins
+WY - Riverton
+WY - Rock Springs
+WY - Saratoga
+WY - Sheridan
+WY - Shoshoni
+WY - Story
+WY - Sundance
+WY - Ten Sleep
+WY - Teton Village
+WY - Thayne
+WY - Thermopolis
+WY - Torrington
+WY - Upton
+WY - Wheatland
+WY - Wilson
+WY - Worland
+WY - Wright

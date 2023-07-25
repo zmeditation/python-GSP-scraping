@@ -1,0 +1,70 @@
+IL - Alton
+IL - Arlington Heights
+IL - Aurora
+IL - Barrington
+IL - Belleville
+IL - Bloomington
+IL - Bolingbrook
+IL - Brookfield
+IL - Carbondale
+IL - Champaign
+IL - Chicago
+IL - Crystal Lake
+IL - Danville
+IL - Decatur
+IL - Deerfield
+IL - Dekalb
+IL - Des Plaines
+IL - Downers Grove
+IL - East St Louis
+IL - Edwardsville
+IL - Elgin
+IL - Elmhurst
+IL - Evanston
+IL - Freeport
+IL - Galesburg
+IL - Glen Ellyn
+IL - Glenview
+IL - Granite City
+IL - Highland Park
+IL - Hinsdale
+IL - Homewood
+IL - Jacksonville
+IL - Joliet
+IL - Kankakee
+IL - Lake Forest
+IL - Libertyville
+IL - Lisle
+IL - Lombard
+IL - Marion
+IL - Matteson
+IL - Moline
+IL - Mt Prospect
+IL - Mt Vernon
+IL - Naperville
+IL - Normal
+IL - Northbrook
+IL - Oak Brook
+IL - Oak Lawn
+IL - Oak Park
+IL - Orland Park
+IL - Palatine
+IL - Park Ridge
+IL - Pekin
+IL - Peoria
+IL - Plainfield
+IL - Quincy
+IL - Rock Island
+IL - Rockford
+IL - Schaumburg
+IL - Skokie
+IL - South Holland
+IL - Springfield
+IL - St Charles
+IL - Tinley Park
+IL - Urbana
+IL - Waukegan
+IL - Wheaton
+IL - Wilmette
+IL - Winnetka
+IL - Woodstock

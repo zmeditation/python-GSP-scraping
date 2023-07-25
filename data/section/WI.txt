@@ -1,0 +1,70 @@
+WI - Appleton
+WI - Ashland
+WI - Baraboo
+WI - Beaver Dam
+WI - Beloit
+WI - Brookfield
+WI - Burlington
+WI - Cedarburg
+WI - Chippewa Falls
+WI - De Pere
+WI - Eau Claire
+WI - Elkhorn
+WI - Fitchburg
+WI - Fond Du Lac
+WI - Fort Atkinson
+WI - Franklin
+WI - Germantown
+WI - Grafton
+WI - Green Bay
+WI - Hartland
+WI - Hayward
+WI - Hudson
+WI - Janesville
+WI - Kenosha
+WI - La Crosse
+WI - Lake Geneva
+WI - Madison
+WI - Manitowoc
+WI - Marinette
+WI - Marshfield
+WI - Menasha
+WI - Menomonee Falls
+WI - Menomonie
+WI - Mequon
+WI - Merrill
+WI - Middleton
+WI - Milwaukee
+WI - Monona
+WI - Monroe
+WI - Mt Pleasant
+WI - Muskego
+WI - Neenah
+WI - New Berlin
+WI - Oak Creek
+WI - Oconomowoc
+WI - Onalaska
+WI - Oshkosh
+WI - Pewaukee
+WI - Platteville
+WI - Portage
+WI - Racine
+WI - Rhinelander
+WI - Rice Lake
+WI - River Falls
+WI - Shawano
+WI - Sheboygan
+WI - Sparta
+WI - Stevens Point
+WI - Stoughton
+WI - Sturgeon Bay
+WI - Sun Prairie
+WI - Superior
+WI - Verona
+WI - Watertown
+WI - Waukesha
+WI - Waupaca
+WI - Wausau
+WI - West Bend
+WI - Whitewater
+WI - Wisconsin Rapids

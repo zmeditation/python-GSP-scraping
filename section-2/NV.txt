@@ -1,0 +1,70 @@
+NV - Alamo
+NV - Amargosa Valley
+NV - Austin
+NV - Baker
+NV - Battle Mountain
+NV - Beatty
+NV - Blue Diamond
+NV - Boulder City
+NV - Caliente
+NV - Carlin
+NV - Carson City
+NV - Creech Afb
+NV - Crystal Bay
+NV - Dayton
+NV - Dyer
+NV - Elko
+NV - Ely
+NV - Eureka
+NV - Fallon
+NV - Fernley
+NV - Gabbs
+NV - Gardnerville
+NV - Genoa
+NV - Gerlach
+NV - Glenbrook
+NV - Goldfield
+NV - Hawthorne
+NV - Henderson
+NV - Incline Village
+NV - Indian Springs
+NV - Jackpot
+NV - Jean
+NV - Lamoille
+NV - Las Vegas
+NV - Laughlin
+NV - Logandale
+NV - Lovelock
+NV - Mc Dermitt
+NV - Mc Gill
+NV - Mesquite
+NV - Mina
+NV - Minden
+NV - Moapa
+NV - Mound House
+NV - N Las Vegas
+NV - Nellis Afb
+NV - North Las Vegas
+NV - Overton
+NV - Pahrump
+NV - Panaca
+NV - Pioche
+NV - Reno
+NV - Round Mountain
+NV - Searchlight
+NV - Silver Springs
+NV - Smith
+NV - Sparks
+NV - Spring Creek
+NV - Stateline
+NV - Sun Valley
+NV - Tonopah
+NV - Verdi
+NV - Virginia City
+NV - Washoe Valley
+NV - Wellington
+NV - Wells
+NV - West Wendover
+NV - Winnemucca
+NV - Yerington
+NV - Zephyr Cove

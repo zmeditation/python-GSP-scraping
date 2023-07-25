@@ -1,0 +1,70 @@
+GA - Acworth
+GA - Albany
+GA - Alpharetta
+GA - Americus
+GA - Athens
+GA - Atlanta
+GA - Augusta
+GA - Austell
+GA - Brookhaven
+GA - Brunswick
+GA - Buford
+GA - Canton
+GA - Carrollton
+GA - Cartersville
+GA - Columbus
+GA - Conyers
+GA - Covington
+GA - Cumming
+GA - Dacula
+GA - Dallas
+GA - Dalton
+GA - Decatur
+GA - Douglasville
+GA - Dublin
+GA - Duluth
+GA - Ellenwood
+GA - Evans
+GA - Fairburn
+GA - Fayetteville
+GA - Gainesville
+GA - Griffin
+GA - Hampton
+GA - Jonesboro
+GA - Kennesaw
+GA - Lagrange
+GA - Lawrenceville
+GA - Lilburn
+GA - Lithonia
+GA - Loganville
+GA - Mableton
+GA - Macon
+GA - Marietta
+GA - Mcdonough
+GA - Milledgeville
+GA - Monroe
+GA - Morrow
+GA - Newnan
+GA - Norcross
+GA - Peachtree City
+GA - Peachtree Corners
+GA - Powder Springs
+GA - Riverdale
+GA - Rome
+GA - Roswell
+GA - Savannah
+GA - Smyrna
+GA - Snellville
+GA - St Simons Island
+GA - Statesboro
+GA - Stockbridge
+GA - Stone Mountain
+GA - Suwanee
+GA - Thomasville
+GA - Tifton
+GA - Tucker
+GA - Union City
+GA - Valdosta
+GA - Warner Robins
+GA - Waycross
+GA - Woodstock

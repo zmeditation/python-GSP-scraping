@@ -1,0 +1,70 @@
+VA - Abingdon
+VA - Alexandria
+VA - Annandale
+VA - Arlington
+VA - Ashburn
+VA - Ashland
+VA - Bedford
+VA - Blacksburg
+VA - Bristol
+VA - Burke
+VA - Centreville
+VA - Chantilly
+VA - Charlottesville
+VA - Chesapeake
+VA - Chester
+VA - Chesterfield
+VA - Christiansburg
+VA - Culpeper
+VA - Danville
+VA - Dumfries
+VA - Fairfax
+VA - Fairfax Station
+VA - Falls Church
+VA - Farmville
+VA - Forest
+VA - Fredericksburg
+VA - Front Royal
+VA - Gainesville
+VA - Glen Allen
+VA - Gloucester
+VA - Great Falls
+VA - Hampton
+VA - Harrisonburg
+VA - Haymarket
+VA - Henrico
+VA - Herndon
+VA - Leesburg
+VA - Lexington
+VA - Lorton
+VA - Lynchburg
+VA - Manassas
+VA - Martinsville
+VA - Mc Lean
+VA - Mechanicsville
+VA - Midlothian
+VA - Newport News
+VA - Norfolk
+VA - North Chesterfield
+VA - Oakton
+VA - Petersburg
+VA - Portsmouth
+VA - Purcellville
+VA - Reston
+VA - Richmond
+VA - Roanoke
+VA - Salem
+VA - Spotsylvania
+VA - Springfield
+VA - Stafford
+VA - Staunton
+VA - Sterling
+VA - Suffolk
+VA - Vienna
+VA - Virginia Beach
+VA - Warrenton
+VA - Waynesboro
+VA - Williamsburg
+VA - Winchester
+VA - Woodbridge
+VA - Yorktown
